@@ -4,9 +4,9 @@
 
 This blog is a space for me to explore and share my learnings on a variety of topics. Here, you'll find articles on:
 
-* ** Tech Stuff:** Dive deep into programming languages, frameworks, software, and hardware discussions.
-* ** Learning:** Discover strategies for self-improvement and personal development.
-* ** News:** Stay updated on current events relevant to technology and self-improvement.
+* **Tech Stuff:** Dive deep into programming languages, frameworks, software, and hardware discussions.
+* **Learning:** Discover strategies for self-improvement and personal development.
+* **News:** Stay updated on current events relevant to technology and self-improvement.
 
 **Built with:**
 * **HTML:** Provides the structure and content of the webpages.
